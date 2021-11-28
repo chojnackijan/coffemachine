@@ -17,7 +17,7 @@ public class main {
         int water = 0;
         int milk = 0;
 
-        //TODO americano = 150ml wody i 50 ziaren kawy
+
         caffeList.add("1.Americano");
         caffeList.add("2.Caffe late ");
         caffeList.add("3.Espresso");
